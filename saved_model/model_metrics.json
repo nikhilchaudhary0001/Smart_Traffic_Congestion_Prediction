@@ -1,0 +1,7 @@
+{
+    "model": "Random Forest Regression",
+    "training_observations": 500000,
+    "MAE": 19.7777,
+    "RMSE": 39.166,
+    "R2": 0.9633
+}

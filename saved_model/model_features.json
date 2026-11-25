@@ -1,0 +1,19 @@
+[
+    "probeCount",
+    "probeCount_lag_1",
+    "probeCount_lag_2",
+    "probeCount_lag_3",
+    "probeCount_lag_24",
+    "probeCount_rolling_mean_3h",
+    "probeCount_rolling_std_3h",
+    "hour",
+    "day_of_week",
+    "is_weekend",
+    "hour_sin",
+    "hour_cos",
+    "day_of_week_sin",
+    "day_of_week_cos",
+    "speedLimit",
+    "frc",
+    "distance"
+]

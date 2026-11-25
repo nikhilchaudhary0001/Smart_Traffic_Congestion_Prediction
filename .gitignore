@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Large model artifacts (>100MB exceeds GitHub push limit of 100MB)
+saved_model/random_forest_model.joblib
+*.joblib
+
+# Large raw archive files
+archive (1).zip
+*.zip
